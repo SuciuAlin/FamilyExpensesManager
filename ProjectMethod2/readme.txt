@@ -1,0 +1,1 @@
+This is close to the previous way, but it changes the structure of data from lists to dictionary. It shows how little effort was necessary because of the getters used.
